@@ -130,4 +130,3 @@ btnNew.addEventListener(`click`, function () {
   init();
   alert(`The game has been reset !`);
 });
-newFeature();
