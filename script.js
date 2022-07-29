@@ -124,9 +124,7 @@ btnHold.addEventListener(`click`, function () {
     }
   }
 });
-const newFeature = function () {
-  console.log(`Welcome to the application !`);
-};
+
 // Resetting game
 btnNew.addEventListener(`click`, function () {
   init();
